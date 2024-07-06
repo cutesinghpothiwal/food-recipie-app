@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/food-recipie-app/static/css/main.368556d2.css",
+    "main.js": "/food-recipie-app/static/js/main.b1c57199.js",
+    "static/js/453.6a84c24e.chunk.js": "/food-recipie-app/static/js/453.6a84c24e.chunk.js",
+    "index.html": "/food-recipie-app/index.html",
+    "main.368556d2.css.map": "/food-recipie-app/static/css/main.368556d2.css.map",
+    "main.b1c57199.js.map": "/food-recipie-app/static/js/main.b1c57199.js.map",
+    "453.6a84c24e.chunk.js.map": "/food-recipie-app/static/js/453.6a84c24e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.368556d2.css",
+    "static/js/main.b1c57199.js"
+  ]
+}
